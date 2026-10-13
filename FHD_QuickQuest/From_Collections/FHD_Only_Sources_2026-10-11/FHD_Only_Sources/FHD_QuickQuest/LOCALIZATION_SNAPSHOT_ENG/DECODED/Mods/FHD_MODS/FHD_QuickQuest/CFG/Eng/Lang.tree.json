@@ -1,0 +1,1620 @@
+{
+  "format": "blockpar",
+  "header_key": 2984822409,
+  "new_format": true,
+  "seed": 1369621460,
+  "sha256": "255a67d65cc3c0ed7a22d7a2b03e6702b7972241617c952c091495f9415f8396",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "PlanetQuest",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "PlanetQuest",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "0",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Amnesia.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "1",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Banket.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "10",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Election.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "11",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Elus.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "110",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\LongLiveTheRanger.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "111",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\mark05.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "12",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Faruk.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "13",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Foncers.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "130",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Yahtzee_pravki.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "14",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Gaidnet.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "140",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Hospital.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "141",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\GS.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "142",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\SpaceCraft.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "143",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Abandoned.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "15",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Jumper.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "16",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Maze.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "17",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Ministry.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "18",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Moi.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "19",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Muzon.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "2",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Bomber.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "20",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Olympiada.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "21",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Pachvarash.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "22",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Park.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "23",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Pharaon.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "24",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Pilot.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "25",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Pizza.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "26",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Player.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "27",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Robots.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "28",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Rvk.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "29",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Shashki.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "3",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Borzukhan.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "30",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Ski.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "31",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Svarokok.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "32",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Xenolog.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "33",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Xenopark.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "34",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Glavred.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "35",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Badday.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "36",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Testing.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "37",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Evilgenius.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "38",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Logic.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "39",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Fishingcup.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "4",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Citadels.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "40",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Photorobot.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "41",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Proprolog.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "42",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Feipsycho.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "43",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Leonardo.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "44",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Codebox.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "45",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Sortirovka1.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "46",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Colonization.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "47",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Piratesnest.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "48",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Tourists.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "49",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Domoclan.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "5",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Depth.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "50",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Mafia.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "51",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Vulkan.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "52",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Edelweiss.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "53",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Stealth.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "54",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Losthero.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "55",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Complex.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "56",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Rally.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "57",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Sibolusovt.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "58",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\SpaceLines.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "59",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Taxist.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "6",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Diver.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "60",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Disk.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "61",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Evidence.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "62",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Kiberrazum.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "63",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Doomino.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "64",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Filial.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "65",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Forum.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "66",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Gluki.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "67",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Megatest.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "68",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Provoda.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "69",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Deadoralive.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "7",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Driver.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "70",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Kidnapped.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "71",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Boat.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "72",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Newflora.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "73",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Commando.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "74",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Diehard.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "75",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Examen.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "76",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Fishing.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "77",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Galaxy.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "78",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Ikebana.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "79",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Murder.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "8",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Drugs.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "80",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Penetrator.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "81",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Poroda.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "82",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Rush.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "83",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Spy.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "84",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Tomb.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "85",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Gladiator.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "86",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Hachball.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "87",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Energy.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "88",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Gobsaur.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "89",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Menzols.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "9",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Easywork.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "90",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Siege.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "91",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Casino.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "92",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Bondiana.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "93",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Build.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "94",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Diamond.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "95",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Bank.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "96",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Cybersport.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "97",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Massacri.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "PirateClanPrison",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\PirateClanPrison.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "Prison",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\Prison.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Ataman1",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Ataman1.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Ataman2",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Ataman2.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Baron1",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Baron1.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Baron2",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Baron2.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Baron3",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Baron3.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Baron4",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Baron4.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  },
+                  {
+                    "name": "STQ_Headhunter",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\STQ_Headhunter.qmm",
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        "metadata": [
+          0,
+          1
+        ]
+      },
+      {
+        "name": "Script",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "FHDQuickQuest10",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "Process",
+                    "block": {
+                      "sorted": true,
+                      "entries": [
+                        {
+                          "name": "01",
+                          "value": "int state=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "02",
+                          "value": "int money=ShipMoney(Player());",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "03",
+                          "value": "str form=CurrentForm();",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "04",
+                          "value": "int inQuest=0;if(form=='PlanetQuest'||form=='PQuest'||form=='PQuest2')inQuest=1;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "05",
+                          "value": "if((ScriptItemActionType(t_OnEnteringForm)||ScriptItemActionType(t_OnReEnteringForm))&&inQuest&&state==0)",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "06",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "07",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,1);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "08",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,money);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "09",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "10",
+                          "value": "exit;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "11",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "12",
+                          "value": "if(ScriptItemActionType(t_OnLeavingForm)&&inQuest&&state==1)",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "13",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "14",
+                          "value": "int baseMoney=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "15",
+                          "value": "int deltaMoney=money-baseMoney;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "16",
+                          "value": "int markerMagnitude=deltaMoney;if(markerMagnitude<0)markerMagnitude=-markerMagnitude;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "17",
+                          "value": "if(markerMagnitude>=850000000&&markerMagnitude<=1450000000)",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "18",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "19",
+                          "value": "int markerIndex=(markerMagnitude-900000000)/50000000;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "20",
+                          "value": "if(markerIndex<0)markerIndex=0;if(markerIndex>10)markerIndex=10;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "21",
+                          "value": "int selectedPercent=10+markerIndex;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "22",
+                          "value": "int markerValue=900000000+markerIndex*50000000;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "23",
+                          "value": "int correctedMoney=money;if(deltaMoney>0)correctedMoney=money-markerValue;else correctedMoney=money+markerValue;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "24",
+                          "value": "ShipMoney(Player(),correctedMoney);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "25",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,2);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "26",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,correctedMoney);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "27",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,selectedPercent);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "28",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "29",
+                          "value": "else",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "30",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "31",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "32",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "33",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "34",
+                          "value": "exit;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "35",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "36",
+                          "value": "if(state==2)",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "37",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "38",
+                          "value": "int lastMoney=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "39",
+                          "value": "int feePercent=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "40",
+                          "value": "if(feePercent<10||feePercent>20)feePercent=10;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "41",
+                          "value": "int rewardMoney=money-lastMoney;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "42",
+                          "value": "if(form=='Gov'&&rewardMoney>0)",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "43",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "44",
+                          "value": "int rewardHundreds=rewardMoney/100;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "45",
+                          "value": "int rewardRest=rewardMoney-rewardHundreds*100;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "46",
+                          "value": "int johnFee=rewardHundreds*feePercent+(rewardRest*feePercent)/100;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "47",
+                          "value": "if(johnFee<1)johnFee=1;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "48",
+                          "value": "ShipMoney(Player(),money-johnFee);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "49",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "50",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "51",
+                          "value": "exit;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "52",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "53",
+                          "value": "if(form=='Gov')",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "54",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "55",
+                          "value": "if(ScriptItemActionType(t_OnLeavingForm))",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "56",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "57",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "58",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "59",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "60",
+                          "value": "exit;",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "61",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "62",
+                          "value": "if(ScriptItemActionType(t_OnStep)||ScriptItemActionType(t_OnEnteringForm)||ScriptItemActionType(t_OnReEnteringForm)||ScriptItemActionType(t_OnLeavingForm))",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "63",
+                          "value": "{",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "64",
+                          "value": "ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,money);",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "65",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        },
+                        {
+                          "name": "66",
+                          "value": "}",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        }
+                      ]
+                    },
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        "metadata": [
+          0,
+          1
+        ]
+      },
+      {
+        "name": "ShipInfo",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "AddInfo",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "CustomInfos",
+                    "block": {
+                      "sorted": true,
+                      "entries": [
+                        {
+                          "name": "FHDQuickQuestCore10",
+                          "block": {
+                            "sorted": true,
+                            "entries": [
+                              {
+                                "name": "Description",
+                                "value": "NoShow",
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              },
+                              {
+                                "name": "Icon",
+                                "value": "0",
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              },
+                              {
+                                "name": "Name",
+                                "value": "",
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              },
+                              {
+                                "name": "OnActCode",
+                                "block": {
+                                  "sorted": true,
+                                  "entries": [
+                                    {
+                                      "name": "01",
+                                      "value": "ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDQuickQuest10.Process')); ",
+                                      "metadata": [
+                                        0,
+                                        1
+                                      ]
+                                    }
+                                  ]
+                                },
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              },
+                              {
+                                "name": "OnActCodeTypes",
+                                "value": "t_OnStep,t_OnEnteringForm,t_OnReEnteringForm,t_OnLeavingForm",
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              },
+                              {
+                                "name": "OnActStepTypes",
+                                "value": "0",
+                                "metadata": [
+                                  0,
+                                  1
+                                ]
+                              }
+                            ]
+                          },
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        }
+                      ]
+                    },
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        "metadata": [
+          0,
+          1
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "format": "blockpar",
+  "header_key": 2984822409,
+  "new_format": true,
+  "seed": 324508639,
+  "sha256": "e8589aab1e04c939cd30ad0f5e673e77f07d47b9765f1c6a9f8dc9f61e47604e",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "BV",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "OnLoad",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "Runtime",
+                    "block": {
+                      "sorted": true,
+                      "entries": [
+                        {
+                          "name": "FHDQuickQuestBootstrap10",
+                          "value": "int oldCore1=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore');if(oldCore1>=0)ShipDeleteCustomShipInfo(Player(),oldCore1);int oldCore2=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore08');if(oldCore2>=0)ShipDeleteCustomShipInfo(Player(),oldCore2);int oldCore3=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore09');if(oldCore3>=0)ShipDeleteCustomShipInfo(Player(),oldCore3);if(ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore10')==-1)ShipAddCustomShipInfo(Player(),'FHDQuickQuestCore10','NoShow',0,0,0,'','','');",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        }
+                      ]
+                    },
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            },
+            {
+              "name": "OnStart",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "0DayScripts",
+                    "block": {
+                      "sorted": true,
+                      "entries": [
+                        {
+                          "name": "FHDQuickQuestBootstrap10",
+                          "value": "int oldCore1=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore');if(oldCore1>=0)ShipDeleteCustomShipInfo(Player(),oldCore1);int oldCore2=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore08');if(oldCore2>=0)ShipDeleteCustomShipInfo(Player(),oldCore2);int oldCore3=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore09');if(oldCore3>=0)ShipDeleteCustomShipInfo(Player(),oldCore3);if(ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore10')==-1)ShipAddCustomShipInfo(Player(),'FHDQuickQuestCore10','NoShow',0,0,0,'','','');",
+                          "metadata": [
+                            0,
+                            1
+                          ]
+                        }
+                      ]
+                    },
+                    "metadata": [
+                      0,
+                      1
+                    ]
+                  }
+                ]
+              },
+              "metadata": [
+                0,
+                1
+              ]
+            }
+          ]
+        },
+        "metadata": [
+          0,
+          1
+        ]
+      }
+    ]
+  }
+}

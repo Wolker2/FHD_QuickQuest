@@ -1,0 +1,37 @@
+{
+  "format": "cache",
+  "header_key": 3935256375,
+  "new_format": false,
+  "seed": -319409088,
+  "sha256": "1322cdf43d30bbea25910fd4de2d0c848f3321903307c72dc57947e1507dd45a",
+  "tree": {
+    "sorted": true,
+    "entries": [
+      {
+        "name": "Bm",
+        "block": {
+          "sorted": true,
+          "entries": [
+            {
+              "name": "PQI",
+              "block": {
+                "sorted": true,
+                "entries": [
+                  {
+                    "name": "FHDJohnDoe_01",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_01.jpg"
+                  },
+                  {
+                    "name": "FHDJohnDoe_02",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_02.jpg"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "signature_prefix_hex": "e40289b5e38d79d7"
+}

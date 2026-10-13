@@ -1,0 +1,206 @@
+PlanetQuest ^{
+    PlanetQuest ^{
+        0=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Amnesia.qmm
+        1=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Banket.qmm
+        10=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Election.qmm
+        11=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Elus.qmm
+        110=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\LongLiveTheRanger.qmm
+        111=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\mark05.qmm
+        12=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Faruk.qmm
+        13=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Foncers.qmm
+        130=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Yahtzee_pravki.qmm
+        14=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Gaidnet.qmm
+        140=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Hospital.qmm
+        141=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\GS.qmm
+        142=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\SpaceCraft.qmm
+        143=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Abandoned.qmm
+        15=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Jumper.qmm
+        16=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Maze.qmm
+        17=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Ministry.qmm
+        18=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Moi.qmm
+        19=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Muzon.qmm
+        2=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Bomber.qmm
+        20=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Olympiada.qmm
+        21=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Pachvarash.qmm
+        22=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Park.qmm
+        23=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Pharaon.qmm
+        24=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Pilot.qmm
+        25=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Pizza.qmm
+        26=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Player.qmm
+        27=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Robots.qmm
+        28=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Rvk.qmm
+        29=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Shashki.qmm
+        3=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Borzukhan.qmm
+        30=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Ski.qmm
+        31=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Svarokok.qmm
+        32=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Xenolog.qmm
+        33=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Xenopark.qmm
+        34=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Glavred.qmm
+        35=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Badday.qmm
+        36=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Testing.qmm
+        37=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Evilgenius.qmm
+        38=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Logic.qmm
+        39=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Fishingcup.qmm
+        4=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Citadels.qmm
+        40=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Photorobot.qmm
+        41=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Proprolog.qmm
+        42=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Feipsycho.qmm
+        43=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Leonardo.qmm
+        44=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Codebox.qmm
+        45=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Sortirovka1.qmm
+        46=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Colonization.qmm
+        47=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Piratesnest.qmm
+        48=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Tourists.qmm
+        49=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Domoclan.qmm
+        5=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Depth.qmm
+        50=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Mafia.qmm
+        51=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Vulkan.qmm
+        52=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Edelweiss.qmm
+        53=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Stealth.qmm
+        54=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Losthero.qmm
+        55=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Complex.qmm
+        56=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Rally.qmm
+        57=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Sibolusovt.qmm
+        58=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\SpaceLines.qmm
+        59=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Taxist.qmm
+        6=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Diver.qmm
+        60=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Disk.qmm
+        61=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Evidence.qmm
+        62=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Kiberrazum.qmm
+        63=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Doomino.qmm
+        64=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Filial.qmm
+        65=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Forum.qmm
+        66=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Gluki.qmm
+        67=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Megatest.qmm
+        68=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Provoda.qmm
+        69=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Deadoralive.qmm
+        7=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Driver.qmm
+        70=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Kidnapped.qmm
+        71=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Boat.qmm
+        72=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Newflora.qmm
+        73=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Commando.qmm
+        74=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Diehard.qmm
+        75=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Examen.qmm
+        76=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Fishing.qmm
+        77=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Galaxy.qmm
+        78=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Ikebana.qmm
+        79=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Murder.qmm
+        8=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Drugs.qmm
+        80=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Penetrator.qmm
+        81=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Poroda.qmm
+        82=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Rush.qmm
+        83=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Spy.qmm
+        84=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Tomb.qmm
+        85=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Gladiator.qmm
+        86=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Hachball.qmm
+        87=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Energy.qmm
+        88=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Gobsaur.qmm
+        89=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Menzols.qmm
+        9=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Easywork.qmm
+        90=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Siege.qmm
+        91=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Casino.qmm
+        92=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Bondiana.qmm
+        93=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Build.qmm
+        94=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Diamond.qmm
+        95=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Bank.qmm
+        96=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Cybersport.qmm
+        97=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Massacri.qmm
+        PirateClanPrison=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\PirateClanPrison.qmm
+        Prison=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\Prison.qmm
+        STQ_Ataman1=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Ataman1.qmm
+        STQ_Ataman2=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Ataman2.qmm
+        STQ_Baron1=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Baron1.qmm
+        STQ_Baron2=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Baron2.qmm
+        STQ_Baron3=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Baron3.qmm
+        STQ_Baron4=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Baron4.qmm
+        STQ_Headhunter=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\STQ_Headhunter.qmm
+    }
+}
+Script ^{
+    FHDQuickQuest10 ^{
+        Process ^{
+            01=int state=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1);
+            02=int money=ShipMoney(Player());
+            03=str form=CurrentForm();
+            04=int inQuest=0;if(form=='PlanetQuest'||form=='PQuest'||form=='PQuest2')inQuest=1;
+            05=if((ScriptItemActionType(t_OnEnteringForm)||ScriptItemActionType(t_OnReEnteringForm))&&inQuest&&state==0)
+            06={
+            07=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,1);
+            08=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,money);
+            09=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);
+            10=exit;
+            11=}
+            12=if(ScriptItemActionType(t_OnLeavingForm)&&inQuest&&state==1)
+            13={
+            14=int baseMoney=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2);
+            15=int deltaMoney=money-baseMoney;
+            16=int markerMagnitude=deltaMoney;if(markerMagnitude<0)markerMagnitude=-markerMagnitude;
+            17=if(markerMagnitude>=850000000&&markerMagnitude<=1450000000)
+            18={
+            19=int markerIndex=(markerMagnitude-900000000)/50000000;
+            20=if(markerIndex<0)markerIndex=0;if(markerIndex>10)markerIndex=10;
+            21=int selectedPercent=10+markerIndex;
+            22=int markerValue=900000000+markerIndex*50000000;
+            23=int correctedMoney=money;if(deltaMoney>0)correctedMoney=money-markerValue;else correctedMoney=money+markerValue;
+            24=ShipMoney(Player(),correctedMoney);
+            25=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,2);
+            26=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,correctedMoney);
+            27=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,selectedPercent);
+            28=}
+            29=else
+            30={
+            31=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);
+            32=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);
+            33=}
+            34=exit;
+            35=}
+            36=if(state==2)
+            37={
+            38=int lastMoney=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2);
+            39=int feePercent=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3);
+            40=if(feePercent<10||feePercent>20)feePercent=10;
+            41=int rewardMoney=money-lastMoney;
+            42=if(form=='Gov'&&rewardMoney>0)
+            43={
+            44=int rewardHundreds=rewardMoney/100;
+            45=int rewardRest=rewardMoney-rewardHundreds*100;
+            46=int johnFee=rewardHundreds*feePercent+(rewardRest*feePercent)/100;
+            47=if(johnFee<1)johnFee=1;
+            48=ShipMoney(Player(),money-johnFee);
+            49=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);
+            50=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);
+            51=exit;
+            52=}
+            53=if(form=='Gov')
+            54={
+            55=if(ScriptItemActionType(t_OnLeavingForm))
+            56={
+            57=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',1,0);
+            58=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',3,0);
+            59=}
+            60=exit;
+            61=}
+            62=if(ScriptItemActionType(t_OnStep)||ScriptItemActionType(t_OnEnteringForm)||ScriptItemActionType(t_OnReEnteringForm)||ScriptItemActionType(t_OnLeavingForm))
+            63={
+            64=ShipCustomShipInfoData(Player(),'FHDQuickQuestCore10',2,money);
+            65=}
+            66=}
+        }
+    }
+}
+ShipInfo ^{
+    AddInfo ^{
+        CustomInfos ^{
+            FHDQuickQuestCore10 ^{
+                Description=NoShow
+                Icon=0
+                Name=
+                OnActCode ^{
+                    01=ExecuteCodeFromString(GenerateCodeStringFromBlock('Script.FHDQuickQuest10.Process')); 
+                }
+                OnActCodeTypes=t_OnStep,t_OnEnteringForm,t_OnReEnteringForm,t_OnLeavingForm
+                OnActStepTypes=0
+            }
+        }
+    }
+}

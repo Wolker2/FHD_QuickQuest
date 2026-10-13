@@ -1,0 +1,6 @@
+Bm ^{
+    PQI ^{
+        FHDJohnDoe_01=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\FHDJohnDoe_01.jpg
+        FHDJohnDoe_02=Mods\FHD_MODS\FHD_QuickQuest\DATA\Quest\Rus\FHDJohnDoe_02.jpg
+    }
+}

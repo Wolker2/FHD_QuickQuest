@@ -1,0 +1,12 @@
+BV ^{
+    OnLoad ^{
+        Runtime ^{
+            FHDQuickQuestBootstrap10=int oldCore1=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore');if(oldCore1>=0)ShipDeleteCustomShipInfo(Player(),oldCore1);int oldCore2=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore08');if(oldCore2>=0)ShipDeleteCustomShipInfo(Player(),oldCore2);int oldCore3=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore09');if(oldCore3>=0)ShipDeleteCustomShipInfo(Player(),oldCore3);if(ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore10')==-1)ShipAddCustomShipInfo(Player(),'FHDQuickQuestCore10','NoShow',0,0,0,'','','');
+        }
+    }
+    OnStart ^{
+        0DayScripts ^{
+            FHDQuickQuestBootstrap10=int oldCore1=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore');if(oldCore1>=0)ShipDeleteCustomShipInfo(Player(),oldCore1);int oldCore2=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore08');if(oldCore2>=0)ShipDeleteCustomShipInfo(Player(),oldCore2);int oldCore3=ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore09');if(oldCore3>=0)ShipDeleteCustomShipInfo(Player(),oldCore3);if(ShipFindCustomShipInfoByType(Player(),'FHDQuickQuestCore10')==-1)ShipAddCustomShipInfo(Player(),'FHDQuickQuestCore10','NoShow',0,0,0,'','','');
+        }
+    }
+}
