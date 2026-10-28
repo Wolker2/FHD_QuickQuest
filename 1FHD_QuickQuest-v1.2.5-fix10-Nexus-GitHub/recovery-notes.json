@@ -1,0 +1,25 @@
+{
+  "archive_name": "FHD_QuickQuest_v1.2.5-fix10.rar",
+  "archive_size": 7983408,
+  "archive_sha256": "f55205dc47720f92956d735d74f0b1fff25623c4c78ce9db0975bddc5dbf674d",
+  "excluded": [
+    {
+      "name": "КВЕСТЫ 2.bmp",
+      "size": 6220854,
+      "sha256": "791c7890dc706fb0e170ebcdb86b2e865a376d7ae8a3927206e664f332bd8f51",
+      "reason": "Gameplay screenshot; not referenced by any supplied config or quest media field"
+    },
+    {
+      "name": "КВЕСТЫ.bmp",
+      "size": 6220854,
+      "sha256": "91e50e7a2ed185e1dda3ea5005563e32796ef3650dbb49937cd39904dd73380c",
+      "reason": "Gameplay screenshot; not referenced by any supplied config or quest media field"
+    }
+  ],
+  "independent_qmm_check": {
+    "tool": "SRHD XenoModKit 0.10.4 quest parser/writer from the existing local tool checkout",
+    "quests_parsed_to_eof": 114,
+    "quests_rebuilt_byte_identically": 114
+  },
+  "live_game_executed": false
+}

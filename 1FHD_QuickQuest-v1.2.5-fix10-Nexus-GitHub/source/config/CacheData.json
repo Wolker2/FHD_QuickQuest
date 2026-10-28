@@ -1,0 +1,35 @@
+{
+  "format": "cachedata",
+  "seed": -319409088,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Bm",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "PQI",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "FHDJohnDoe_01",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_01.jpg"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "FHDJohnDoe_02",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_02.jpg"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "outer_checksum": "resource-dat-v1"
+}
