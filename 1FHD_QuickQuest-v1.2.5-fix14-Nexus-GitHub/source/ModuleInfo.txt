@@ -1,0 +1,17 @@
+Name=FHD_QuickQuest
+Section=FHD_MODS
+Author=Prolog_D
+Dependence=
+Conflict=
+Priority=100
+Languages=Rus
+SmallDescription=Добавляет в игру наёмника Джона Доу, который за плату выполнит за вас любое задание.
+SmallDescription=<color=255,215,0>ver.1.2.3.</color>
+SmallDescription=(Мод можно <color=0,150,15>подключать</color>/<color=150,0,15>отключать</color> в любое время игры)
+FullDescription=Добавляет в игру наёмника Джона Доу, который за определённый процент от награды пройдёт текстовый квест вместо вас. Включает 11 случайных диалогов, ставку от 10 до 25% и мгновенное списание средств.
+SmallDescription=------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+FullDescription= ------------------------------------  <color=0,200,255>ENG</color>  ----------------------------------------
+Languages=Eng
+SmallDescription=Adds mercenary John Doe to the game, who will complete any mission for a fee.
+SmallDescription=(The mod can be <color=0,150,15>enabled</color>/<color=150,0,15>disabled</color> at any time during the game)
+FullDescription=Adds mercenary John Doe to the game, who will complete text quests for you in exchange for a percentage of the reward. Features 11 random dialogues, a 10 - 25% fee rate, and instant payment deduction.
