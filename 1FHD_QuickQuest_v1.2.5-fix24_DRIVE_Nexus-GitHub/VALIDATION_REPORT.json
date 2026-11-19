@@ -1,0 +1,688 @@
+{
+  "mod": "FHD_QuickQuest",
+  "source_archive": "FHD_QuickQuest_v1.2.5-fix24.rar",
+  "archive_sha256": "08efd2bc7c6ea92d3a3f99c8e44b7d47f478f1167370476491e1722b80f3b67b",
+  "archive_file_count": 168,
+  "original_files_in_source": 168,
+  "text_or_code_files": 1,
+  "byte_exact_DAT_to_JSON": 3,
+  "png_files": 2,
+  "data_loss_in_original_archive": false,
+  "dll_source_recovered_from_compiled_binary": false,
+  "game_tested": false,
+  "warnings": [],
+  "files": {
+    "Mods/FHD_MODS/FHD_QuickQuest/CFG/CacheData.dat": {
+      "size": 513,
+      "sha256": "3d6f0b329ac1a157aa1c8efc2031fd1bcd5a520656913f8500dbbed663ef0cc2"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/CFG/Main.dat": {
+      "size": 386,
+      "sha256": "7b8d155713f05652eff026fecd9535f8376bca5eacaa71aa154ca10a8ce0df07"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/CFG/Rus/Lang.dat": {
+      "size": 6120,
+      "sha256": "3fd08580bd259059b2132499d4ea9c73f99d7f58986e49d46cd7c850d07cea71"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Abandoned.qmm": {
+      "size": 262528,
+      "sha256": "e45c5d9bb5ef8c5171aa88d6d0460a6db6ffd34cd0de2de407b6c94d692701b6"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Amnesia.qmm": {
+      "size": 360567,
+      "sha256": "3920f25cd5a679ff99bc2747ba8139a19dbcbdac26fccb1f30022584fe9f2361"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Badday.qmm": {
+      "size": 223677,
+      "sha256": "3db070e88feff538961fe0b30b3b5c4b9f6c86af0b883375de8dc88b20c297bd"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Bank.qmm": {
+      "size": 392996,
+      "sha256": "1e0478ecb0c8614a2e4cb4ca66a762ba87c428cf898564227cb762756de60674"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Banket.qmm": {
+      "size": 295373,
+      "sha256": "0793e5e62c6d1d034b1bdcc76b4adb92d6dcce33ed6a07d5dbac4a5f145debe4"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Boat.qmm": {
+      "size": 57031,
+      "sha256": "6493449f3d57dccc4fe3ed9e5dd5e9c463072913610f15a7cc4bc72c7b8b9515"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Bomber.qmm": {
+      "size": 324059,
+      "sha256": "4bb31215d6e57d15df3a1104782510ef7e32bf97619ce7bd94e2202216e79eea"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Bondiana.qmm": {
+      "size": 226445,
+      "sha256": "08d348964490f6b71651e432915708578dd28f40dddbe3b2ed78eb9268d3679b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Borzukhan.qmm": {
+      "size": 145716,
+      "sha256": "753ac05e0a6e418c7fbcd5647a4a0cfa759fb4dd9aac33563234db1ea1b5256f"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Build.qmm": {
+      "size": 169260,
+      "sha256": "0d1d64731bd5da7ea9b16071792ab9918b475d4123574a8ed0d6580eb94e3c90"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Casino.qmm": {
+      "size": 145447,
+      "sha256": "2b34af1ee81d175f25f008a5f1f9396605453907bcf24726eaede55229f8ca1d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Citadels.qmm": {
+      "size": 305639,
+      "sha256": "fe2ad33b3f3f7d7c137fa3d1b411d8e58b009156aa88acace4203c18f67f73a7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Codebox.qmm": {
+      "size": 90847,
+      "sha256": "5e00d61d95c5a49dab4294bd9c6fdd217f332adc269e7bf6bcc07f61628d4dc1"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Colonization.qmm": {
+      "size": 477052,
+      "sha256": "40643283d20edefad633202cd3484ddba787adaabba6dc1a0fe30105dba5c8ce"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Commando.qmm": {
+      "size": 130885,
+      "sha256": "1e063c3d79a884599ef05113e7604bdb0aab64cf21d217256bc18305a1bcf9b0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Complex.qmm": {
+      "size": 624419,
+      "sha256": "70eb3b5037b8e40401020798c558355538deac72ee52c4068ce7a3002c1d250d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Cybersport.qmm": {
+      "size": 167895,
+      "sha256": "87d0ee3d7d70e3356496fb321011513cbd3b3cb5ba81d1216ff073f7cca26b6d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Deadoralive.qmm": {
+      "size": 354552,
+      "sha256": "dd1d5c99e80c85ff65f3b98bb2f7ba2ba489ca4a3da834a70b4c3bff09972f81"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Depth.qmm": {
+      "size": 123922,
+      "sha256": "fd20789cab51d002706de7909e07e772fea08b6351a869aaa78e2621e4fd9929"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Diamond.qmm": {
+      "size": 245367,
+      "sha256": "c0d0b82e6c07df820cbb3f100d9d0181db54bb4580d83395acbd754674be870e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Diehard.qmm": {
+      "size": 89869,
+      "sha256": "42ec2c3e786c4c18a5f0abd11581b06fa915ae166c07618371062867aefaa302"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Disk.qmm": {
+      "size": 123291,
+      "sha256": "050cdf46759c8145482b5c531f263506c524b8fdd477d22caab7804435085a33"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Diver.qmm": {
+      "size": 158215,
+      "sha256": "6e1cf28c15b1cab2e6593c0900f017716b3fb2a1934f147194ecf869c1013216"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Domoclan.qmm": {
+      "size": 536643,
+      "sha256": "c768eddc2e42f0c01a5a9217bbcf212af637a81c879434de4f4ae506e4f5f7f2"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Doomino.qmm": {
+      "size": 262625,
+      "sha256": "f295bb80f2961dd51a7e1217beb76697dcb98c6f0ae4be1443595cd867526b09"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Driver.qmm": {
+      "size": 397889,
+      "sha256": "79db23b2a40627487edf645f8178a53740dfa84cf0b3fb35673b879f8c896bcb"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Drugs.qmm": {
+      "size": 476535,
+      "sha256": "f3592f3cd895e5cb9bd6a90eb0b071621e783410bedd869511a4de2a8d54ce74"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Easywork.qmm": {
+      "size": 474368,
+      "sha256": "6794f554d6903b2765f11c94f9fda795ea1a3199014d3074d92f1cca6a4328c7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Edelweiss.qmm": {
+      "size": 199226,
+      "sha256": "d5452858a32c995750cedff85fc4848eb34e3230e2fc51f433993dd9a2f9fed7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Election.qmm": {
+      "size": 409228,
+      "sha256": "4c60081a45caa2a60e2966068fffe13386fa04d1938dc9f4c1e8edc460220b5f"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Elus.qmm": {
+      "size": 197870,
+      "sha256": "f7ab21d6372ff775c6d6c8069424709b91b4d727458049dfbff076cf5b35f016"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Energy.qmm": {
+      "size": 140117,
+      "sha256": "c2ea1563dba12ed326f614e58a27e135bdf1cfce65551e42abe22f41e864d021"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Evidence.qmm": {
+      "size": 199554,
+      "sha256": "9c43ff710e78921df677e2bef7bfa9d8113f7f2eb539f76f20e7b7d36c55f193"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Evilgenius.qmm": {
+      "size": 313189,
+      "sha256": "8f8232ed28ca9732124d2bceb7f25e3f230bbcf649c6b40a810b30104ea89a14"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Examen.qmm": {
+      "size": 109124,
+      "sha256": "b9ef2d3a56e09cb1ed7e69ce781cf21217e3a8f7f609bc17eb2a71b3ece3cae3"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/FHDJohnDoe_01.jpg": {
+      "size": 134613,
+      "sha256": "c52e3838dc2cfefdc201f3688eb0063d0663ba8f88300b1925527ffaf292e8af"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/FHDJohnDoe_02.jpg": {
+      "size": 121428,
+      "sha256": "31a2b945bc29698ccd52c26d1cf372129f1629340dd79b1f1e05311a81a47ace"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Faruk.qmm": {
+      "size": 88605,
+      "sha256": "2a28f9c6500e2577d523e1ab19c2b7fa62adcf6d480fb5e1d7e528426c9c633e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Feipsycho.qmm": {
+      "size": 239143,
+      "sha256": "285f8b31144500d40ab83d01ad5fd22617f440a68b06a721438572d3870b3b9b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Filial.qmm": {
+      "size": 188716,
+      "sha256": "60722d6e7583e1950a42e9844aa531c83a64da0810e5d5ea4d0b44abb15dfb92"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Fishing.qmm": {
+      "size": 84466,
+      "sha256": "a56198a2d03e224b3d2bf8c5b69cbed4cbcf53fc1c464feb5bebf0344033b740"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Fishingcup.qmm": {
+      "size": 193984,
+      "sha256": "48de7e6ec77b768fb1d44ec6032f7b52e5b6e19aa270ed3b560f8ea4d14d21ef"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Foncers.qmm": {
+      "size": 94099,
+      "sha256": "f4814c6d27a15aa27e7ad429ad80d6ee8ab6b82fc8092cc4b662010480d40842"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Forum.qmm": {
+      "size": 326753,
+      "sha256": "17a351e4488f10359439bdba1deb1175782d2e6cb44d496c74d6ab2fa15a624b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/GS.qmm": {
+      "size": 673853,
+      "sha256": "e72bd4eb7f041073f1d1e048d4c2bc8f63941e6c55bc3c86ec661ee9801090de"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Gaidnet.qmm": {
+      "size": 196411,
+      "sha256": "2d076e0b1eb430de710849644a25054b6a46c891d60dbb2e57ccb5c6088447d0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Galaxy.qmm": {
+      "size": 180085,
+      "sha256": "3572d9e318cc2e8cd825c73a66646c2f5f423df7add0bb53f8e74f14183a66bf"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Gladiator.qmm": {
+      "size": 109499,
+      "sha256": "2bf586e9a3fd02393f95372af7af9939566cb5799cf6df6e78df9bf0f14e3363"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Glavred.qmm": {
+      "size": 563184,
+      "sha256": "d3fb1f099dfb2bb1fbb04af9bd720716fd4bb29f94cff3f3f49d541b5186cbe8"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Gluki.qmm": {
+      "size": 337823,
+      "sha256": "1ba641a93de24be0de5a53d1bd4451a9c12862dff92e9c109cd5ab798317e48b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Gobsaur.qmm": {
+      "size": 74972,
+      "sha256": "47ca833a9a52614006eb9e67ccd18f929d27982c8f359093cc8c027ce9559def"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Hachball.qmm": {
+      "size": 155051,
+      "sha256": "b3ada70d6c06158335ff045e0163e7e780ab43637d2cdbd251d74f1bebf7a71f"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Hospital.qmm": {
+      "size": 98807,
+      "sha256": "8fa3edf615fee2a206bdc0a726e15c7bb0718ed9408a71171660b81b4dc2d85c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Ikebana.qmm": {
+      "size": 117753,
+      "sha256": "438df855e3690a3dc86adb6540cb4056da1ceb966398b0ddae10aedc2b68b335"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Jumper.qmm": {
+      "size": 133776,
+      "sha256": "19916c28ff77dc4d151251c4990830769a84f661b626a3072c067a9fde054de4"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Kiberrazum.qmm": {
+      "size": 545425,
+      "sha256": "42577e2b5cbb86ba7db8f104e64d4a6f3e8de99ec1a35702a6f41b5c0cca2531"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Kidnapped.qmm": {
+      "size": 931819,
+      "sha256": "186ab8c318bab488d8133845f83d6e97812bba223dbe049cf6ed9303a4a3bc27"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Leonardo.qmm": {
+      "size": 248073,
+      "sha256": "211f08b02c7a232de8b0b3113ce87516874c3ca894a912b031ac79e04b14a0ef"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Logic.qmm": {
+      "size": 111180,
+      "sha256": "91a8835931f104ab6e4f090f0b78d464866a199422707c6ea4419194a180eeb0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/LongLiveTheRanger.qmm": {
+      "size": 791266,
+      "sha256": "58792b6c473300319a1f98f91150c85b383625e1c23828d9713d3f6646c0a003"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Losthero.qmm": {
+      "size": 389763,
+      "sha256": "7330faf8fe5cca7769800309939b4e6781bb30cbdbc968685ceb0b241956c5cf"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Mafia.qmm": {
+      "size": 814589,
+      "sha256": "4cefb66a1db5df3e93ad9510f3e504c177883e8db89b369536068d3e40786b8b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Massacri.qmm": {
+      "size": 476655,
+      "sha256": "e34c6b3415ef9013f89c97ef700caeb6e9b787e32b7acbbf5ed96ce3838917a0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Maze.qmm": {
+      "size": 489821,
+      "sha256": "e5fb77bf74bc0b5be1415dd624d57ed42f7b7599ee23f98a2c11502bbd1ab8c7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Megatest.qmm": {
+      "size": 55018,
+      "sha256": "277b674bb2050414449c16ff502e2a3db290bccdfab769788a09732069e3258d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Menzols.qmm": {
+      "size": 419130,
+      "sha256": "c594ed207dc8327757ea71b9df8f4ca7331d1bb0ac796bbc7c91a97372934df7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Ministry.qmm": {
+      "size": 178663,
+      "sha256": "df36360b29aef23cfbaeaf4491f6c35196cba71406c87e328004e75f350b3447"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Moi.qmm": {
+      "size": 836821,
+      "sha256": "c4b45a9f9a774fda87ce6be5ef0bc8262f1976684232714244639079139d608a"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Murder.qmm": {
+      "size": 150298,
+      "sha256": "01bc63f585d7e1c21ccdfd0406103175cbc602c28816c58ca044588b2cd9ca08"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Muzon.qmm": {
+      "size": 223356,
+      "sha256": "6426169c32f987a4b172284529ed7bfbf8b73a5e4b189bd3a21f12c7119bc894"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Newflora.qmm": {
+      "size": 188843,
+      "sha256": "50f2c09ed20ea3f9a14d6195449ca4b5e6f32bdcf5499d99aaa2ab2f4db8a784"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Olympiada.qmm": {
+      "size": 250180,
+      "sha256": "0d4cb7c163978b5255804c78cf6525388b57ccc59cee5b9eea26f3b8e5d08d75"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Pachvarash.qmm": {
+      "size": 239805,
+      "sha256": "62218a020866a9826a8d56b872d4a2ebee643c887fd938cce78b28dba9a4cd87"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Park.qmm": {
+      "size": 236728,
+      "sha256": "1f1962a4f5c86ea24aac323a17214b6aaad726963ea9442ca2754606d4f5a0c8"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Penetrator.qmm": {
+      "size": 218611,
+      "sha256": "e35aa83bb8d0a50e437d89876183bbb5e524a1694f592b9fc12d9876eb848750"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Pharaon.qmm": {
+      "size": 105067,
+      "sha256": "db5881c538eae6c083c143a31c486170f9ad00665cfa8a815f9a2aacdcdbb312"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Photorobot.qmm": {
+      "size": 156881,
+      "sha256": "feedef33843a096af468514d559ea1ce02af178f6460e4c355f23374aac67d89"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Pilot.qmm": {
+      "size": 189682,
+      "sha256": "6cf2da023fff68ee01e0f48ef085ce81bc23f6c9a79f043615c8848c0527bbff"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PirateClanPrison.qmm": {
+      "size": 566613,
+      "sha256": "6f79035795f33ada3488253023be9a7b1ecc2c5171b11cf8c131c9cc6ad9b826"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Piratesnest.qmm": {
+      "size": 454320,
+      "sha256": "33fef3ee8498566e055e938c9f2f3d79a6277ec3c6849c4925d6c79f431ec926"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Pizza.qmm": {
+      "size": 156610,
+      "sha256": "a9986af8e9fd8dae37681104ecf6c63c9c329526e699783cc6494eda668ce684"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Player.qmm": {
+      "size": 79079,
+      "sha256": "343dd317e17370e7a01b531008dbe3b35a795ada664c1cea518e8360b97e3d53"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Poroda.qmm": {
+      "size": 109286,
+      "sha256": "c2ab61c802f612c27917c090ba4e25bb57d52fa26a7fd9cb5e5a855b30f2ba2d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Prison.qmm": {
+      "size": 566095,
+      "sha256": "45b831c8253632dcffe6ffe8aa009d76ec397b0def4bc8f13316ba7600536d83"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Proprolog.qmm": {
+      "size": 579737,
+      "sha256": "ef99e12916caebcee39378bea754cb76e0316b1810ecf2871c4f8fe7e0c18154"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Provoda.qmm": {
+      "size": 146889,
+      "sha256": "af398af999ea326df691e1de4285938ca57335c2f5f2f1ce83f784979455659b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Rally.qmm": {
+      "size": 225095,
+      "sha256": "a53a9c0f362da61ee747fadc73656bca86739bd440cd8e1a17a543da8e70bd32"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Robots.qmm": {
+      "size": 240881,
+      "sha256": "545ea48c0eb2a0c37ab81c3eef7668f79b0ae6e2bbf8775f8374f723a5b8b79c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Rush.qmm": {
+      "size": 86895,
+      "sha256": "951d4ed7fc1a1a47ada91cdc117737d5dcfbce27b29ff57123eece71ffced070"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Rvk.qmm": {
+      "size": 190367,
+      "sha256": "6aeda25af7258d4b753c957d03444714289d7db1fc27bc857886d58529d61a2c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Ataman1.qmm": {
+      "size": 33027,
+      "sha256": "3e89146c21bcb460a92c367f0c8ae5d79d7721d2d8d22ec941e1816371860ae7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Ataman2.qmm": {
+      "size": 59335,
+      "sha256": "4b52ce4ea61b3dc8f094f2b9056e6b6a9161c198a655ecbc9379cdc267a39fdf"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Baron1.qmm": {
+      "size": 72379,
+      "sha256": "b732074f411cff08b61f472351fde00abef6eefe765f44def78d5127f635c92c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Baron2.qmm": {
+      "size": 215665,
+      "sha256": "708a08314658670c9744168c2e16492d46d54524d0cb5c375582d96dee541ec0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Baron3.qmm": {
+      "size": 137158,
+      "sha256": "57145891c8c85ae4cec9319a4c60e0f207d8c715f0d0b4c462af3d6ba7ab2cda"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Baron4.qmm": {
+      "size": 46035,
+      "sha256": "312fd10810c4b4437008b20c0679214ffc14567f8d516c7a3a55bb120640c29a"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/STQ_Headhunter.qmm": {
+      "size": 301418,
+      "sha256": "3fc7e30ad345ba2b1d9508345fb28beb16f58c2bde209d72d015c8daf9a1b5a4"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Shashki.qmm": {
+      "size": 47567,
+      "sha256": "3f75ebdd387beb9771f68346524217a1c92e7bbc56211d8cdb904f0200807130"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Sibolusovt.qmm": {
+      "size": 379533,
+      "sha256": "0be3f3aa0273f077eecbcbe9fa53832f7b219f68080e9ffa44bf8f68860ccf97"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Siege.qmm": {
+      "size": 217032,
+      "sha256": "bd7d25182f1ed56da5ef81229f62df9088bc7be0e8918804cc5d0aaa5a1a48ee"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Ski.qmm": {
+      "size": 125343,
+      "sha256": "07a3f651520c6d389cd1723d22ac362e8180e2b90f1edc82f5399b1be3ed4b59"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Sortirovka1.qmm": {
+      "size": 102227,
+      "sha256": "35d5530bb0663bb18fccb2718ae961e0718d6f7914f22e46e7815afeaec4630b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/SpaceCraft.qmm": {
+      "size": 339242,
+      "sha256": "09f09bf723dabee19ab165c1e92a823923669950cc5e434f9111213f750c160a"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/SpaceLines.qmm": {
+      "size": 89729,
+      "sha256": "2128f386a575e93bb8941f5a30c4a67c3647f58812b132af6cc710776ff5719d"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Spy.qmm": {
+      "size": 195575,
+      "sha256": "9e3dd0e4e950ddf10d4151060c9e8562e56911a85c5390dc54460a1b117d17ae"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Stealth.qmm": {
+      "size": 234831,
+      "sha256": "7ee6e8bb106e2c06ce44e3402d5ba7a7ca001dafe95ab91d8b1ce5dc3c0060b7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Svarokok.qmm": {
+      "size": 106440,
+      "sha256": "3c7e19c18c8a1797a869c14f7b4e9bc52efccbe6815de9bb8b7646326e3aaa61"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Taxist.qmm": {
+      "size": 266774,
+      "sha256": "1893d8d18ce6ef008ebb54cfc6a7b651b67d36191cd4c0e63464158f55209895"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Testing.qmm": {
+      "size": 517060,
+      "sha256": "d6008c2415b33e7a7ef7b54483aab08f81a4bbeeec7b428386dd4be182da87d0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Tomb.qmm": {
+      "size": 82943,
+      "sha256": "6f16af53ada1d884331e3f48a7d3beee9462f2e415748cec80135b21c5766404"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Tourists.qmm": {
+      "size": 250525,
+      "sha256": "fef67e9562c61d799fb57bd7b81854ffe691696b5a02c7ca0a2a810ae9944b83"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Vulkan.qmm": {
+      "size": 297662,
+      "sha256": "ddcc9d19679dd93c1b15f61d68f2fd44b93f2a66ac48cc915dd6cd409317a61e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Xenolog.qmm": {
+      "size": 258791,
+      "sha256": "32994179e5c8111a824d2921f3b2fc6ab5b367280a4a122f1128717e8676e3e3"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Xenopark.qmm": {
+      "size": 193374,
+      "sha256": "a95ddaeb4ce3d88fbbf3d09708ffd6de83fe9cdadda43681ddb948794ee07535"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Yahtzee_pravki.qmm": {
+      "size": 112161,
+      "sha256": "37fa7ef948fbb3930ae0cc77c847a0aaa3135064c58a15b6d4ed50ec01f44dd9"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/mark05.qmm": {
+      "size": 177539,
+      "sha256": "3829628a881331216350bd669f9a977a3b9bc69afcbc672d2638e3e4b4f5f7f0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/ModuleInfo.txt": {
+      "size": 1309,
+      "sha256": "36cd4ba3bf1d87461a47f4449211cfa977d50bf1d2940632732d879b2e12819e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Captain/2People80.gai": {
+      "size": 1031234,
+      "sha256": "bcccd3e5a6371e0862380da570a050b985f848ab3f290ec348f22ecf06ebf5a7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Captain/2People80.gi": {
+      "size": 19440,
+      "sha256": "a9780745e136016bead849861775bc110927298e59597861bc1c2681306b369c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/ItemsUseless/Rachehan_statue.gi": {
+      "size": 1471,
+      "sha256": "852aea1173b7a01c280f1790c9b87a504aa6c02c943d75f3629d1178c5a4a097"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningDavid.png": {
+      "size": 293066,
+      "sha256": "af23498b9fbc0c56fb42a2fcf3fefbabf056811b212f7fb3e819adbe74f49b2a"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningDock.png": {
+      "size": 319814,
+      "sha256": "b57a56606ea383fbf17f8bef96d08b1929007afe183fb4283f748fbee707b371"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningEMGranade.png": {
+      "size": 290153,
+      "sha256": "66f858f730af7a96baaad7fe0777abbf6ae943eb5b2eb530ab9169331a6e5afb"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningEvening.png": {
+      "size": 290827,
+      "sha256": "79585cbb9afa00e9e3bebb9be957a24520efa68184609962d301947b678116c7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningFireGun.png": {
+      "size": 293584,
+      "sha256": "84031625d0c5f3b92468e358f10cb620f22af7ea5e31887c54eae96c72a77ec8"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningFragGranade.png": {
+      "size": 279085,
+      "sha256": "9fd6da242cf5b522a20865b1552ed4c36ae5fa51b1776fe669588df22f9c9483"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningLibertyHead.png": {
+      "size": 306048,
+      "sha256": "4dd7209eb33682543c51980081e2da8aa9c33ddccf8d71c9a7e45b96649662c0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningMahpella.png": {
+      "size": 279976,
+      "sha256": "1b7092b0b8a5bb8ade0c14b4d8ee3ab6215cfe859209472e378980c407eb0cbb"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningMalok.png": {
+      "size": 297318,
+      "sha256": "3dea9ea1ce38190bf2139e0ac5d9b559f8760489b4bd73d0b7dd1717e7e0c066"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningSatellite.png": {
+      "size": 281262,
+      "sha256": "a7e177b0b89d9899a7b3cf434959750e6b34f6fd601157b21d6bb53b1c36f6a6"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningShelter.png": {
+      "size": 321434,
+      "sha256": "7b94e80945e907301e949e722a46a0fcc98599ed1fc599536e9aba9804fc245f"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningSpeGun.png": {
+      "size": 276961,
+      "sha256": "90b746b1fd14e878f2867277693efcc2d3ec298b08bbeeadaa2d623548ad0519"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningSpeGun0.png": {
+      "size": 268566,
+      "sha256": "2958caf28202b71b3d1fadd74acf5eace57db7eae6b447b6c39d43c331d31fc2"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningStorage.png": {
+      "size": 302363,
+      "sha256": "b2bccd717dddaffd54140071be9e14a85a71ee73638129689d0a5d039f83cf22"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningStorageAtack.png": {
+      "size": 318875,
+      "sha256": "dbb9a4f3f2dcfd05b6d10dc1d732db6177c1c3c1e7ca3d9e239be5652ff4b554"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningTakasumi.png": {
+      "size": 312403,
+      "sha256": "bd8718dfb4641204e356ba80e702e8284f0d9d109ba1846c04e7628d4e47cc9f"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/BillionairesEveningTauhito.png": {
+      "size": 294716,
+      "sha256": "56dc140ed7bc0a9c6015ee5ac878c3a2be04f7e1a359f7a531f244372d22e9dd"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/PQI/Rab_01.jpg": {
+      "size": 31572,
+      "sha256": "d65fc2d591b547ca7b1c1de8912e6e6b0ecb51bab07db84f108a66de6a8bee4e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Promo1.qmm": {
+      "size": 76792,
+      "sha256": "be77b976a96b86a8dfb2e0b6f75bb8f11dfc62f90727c6308efddb59ed3138a7"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/Rabstvo13.4.qmm": {
+      "size": 155593,
+      "sha256": "999a7b35b35d0c29421ac9552d3ac950e37aa11129ec00dd7f635c2f2c40190b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/TakasumiQuest.qmm": {
+      "size": 131992,
+      "sha256": "a9801d43280a4ce69235e005a942198bcf2d6d0cc8da2253a15d9a587b5ffe77"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Script/billionairesEvening.scr": {
+      "size": 40351,
+      "sha256": "22ced0de12cfd99121b9eeefe5344e572d53f3409dadf3102901fec7793cadf5"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQAnarchy.qmm": {
+      "size": 4299209,
+      "sha256": "2f3dc0ab193cd5439c811ffdcae1823ce1036e30e96b8c4309daebd563ac68ed"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion.qmm": {
+      "size": 1804806,
+      "sha256": "8f27e8cb60486273e1817b3bee37ffe1e8d18bc9e6a10a65dcc929472a2cf74c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_FDEM.qmm": {
+      "size": 3913312,
+      "sha256": "a3775d739c10f8362858c8130e377dc7791f81d3377e2f481fd4d62be2f562d0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_FDIK.qmm": {
+      "size": 3847290,
+      "sha256": "e76620a16e82ab9c33d1161086859b4fd87c2454e8f0d25b8587ff47bc7b66af"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_FM.qmm": {
+      "size": 3634674,
+      "sha256": "e6372a2e70bff4abe423423f8a9fda9d72f88640f3fa4c42b55168c088d0cbe0"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_FR.qmm": {
+      "size": 3813118,
+      "sha256": "fdac51a4d0a68cb7688ec2e292f9a78534f31fc52ae34b4b28dd51dfb9ba346e"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_GDEM.qmm": {
+      "size": 3963894,
+      "sha256": "f22fb06e47a8d17752c292f479d27dc0ad8924fd91ce1ea9b9d2ffb8d4ee30d3"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_GDIK.qmm": {
+      "size": 3927462,
+      "sha256": "b005b5089ce817550d38e1cbad0f321061f589bb8872fa6b502dadf8b49f08ec"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_GM.qmm": {
+      "size": 3869264,
+      "sha256": "970885805dffacbf8bc6a524743b97f737814d11637d41f33a9ca35c0bfefe71"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_GR.qmm": {
+      "size": 3890554,
+      "sha256": "4e1bc9e7fa70fe2e9d23e161a73fe3e5748f3f202a35ea6ed40fe2528eaa3230"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_LDEM.qmm": {
+      "size": 3441890,
+      "sha256": "5d05d05c4946cc53f75268a9e9be3745e6bb3e82c4cba309d6fe88b2279ca7de"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_LDIK.qmm": {
+      "size": 3572532,
+      "sha256": "66d7f2907b522e5ace7ecb07f09cbf8f6902e912d78e632219d4891e6eaff625"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_LM.qmm": {
+      "size": 3119145,
+      "sha256": "66132692a090bba8bda5b629b10873956394e80ea90a8ad2cb3219e500d7418c"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_LR.qmm": {
+      "size": 3273871,
+      "sha256": "67d8e6c179fbe7ea52a1d16a6f9aa8ba6866287377015596aa4128194c84bac6"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_MDEM.qmm": {
+      "size": 1862980,
+      "sha256": "b902cbe12d40eef1e1a3a058fd96f6a7212d3ed8b374f22614baa15e348604a4"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_MDIK.qmm": {
+      "size": 1883178,
+      "sha256": "4e38bd55e553127eb7ea4b67ea10e3b953b1e0eaa1de48513cedaad7dcc0d7ba"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_MR.qmm": {
+      "size": 1840462,
+      "sha256": "cf15ff7621ad0ea2eef931f994033d622ebb8af759cb48d433ca29903bb885ee"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_PDEM.qmm": {
+      "size": 2817952,
+      "sha256": "05456b560fdc8c7c23c1305dbff56d918aea5a1605e99d9ae6af229c0b5b9876"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_PDIK.qmm": {
+      "size": 2631836,
+      "sha256": "e408f262225e4530370894cc28b62481ed7dae1af7f9072cbb7522874b1ca23b"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_PM.qmm": {
+      "size": 2488927,
+      "sha256": "b2e16a53707becd68f8106533c7a16909d9512ea1f19e520064932ddb06d6289"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_PR.qmm": {
+      "size": 2729090,
+      "sha256": "878c25d7470c23d9c480f6de9c9f8167fdf0566210059c48c79ba8ac26afd9b3"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQAnarchy2.qmm": {
+      "size": 4299843,
+      "sha256": "8aa17a19d4433bd0aa7c02ca036c4c94f2272a9c8a1afbc81d354826bddc7aab"
+    },
+    "Mods/FHD_MODS/FHD_QuickQuest/DATA/Quest/Rus/PlayerHQExpansion_MDIK2.qmm": {
+      "size": 1883234,
+      "sha256": "a9a1a333e9101ad03a70d5946e4a5849359f67502e898196fe0483c24495911f"
+    }
+  }
+}

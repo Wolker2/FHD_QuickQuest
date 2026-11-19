@@ -1,0 +1,168 @@
+{
+  "format": "cachedata",
+  "seed": 1503414797,
+  "root": {
+    "entries": [
+      {
+        "kind": "block",
+        "name": "Bm",
+        "value": {
+          "entries": [
+            {
+              "kind": "block",
+              "name": "Captain",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "2People80a",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Captain\\2People80.gai"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "2People80i",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Captain\\2People80.gi"
+                  }
+                ]
+              }
+            },
+            {
+              "kind": "block",
+              "name": "ItemsUseless",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "2Usl_RachehanStatue_s",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\ItemsUseless\\Rachehan_statue.gi"
+                  }
+                ]
+              }
+            },
+            {
+              "kind": "block",
+              "name": "PQI",
+              "value": {
+                "entries": [
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningDavid",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningDavid.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningDock",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningDock.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningEMGranade",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningEMGranade.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningEvening",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningEvening.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningFireGun",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningFireGun.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningFragGranade",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningFragGranade.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningLibertyHead",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningLibertyHead.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningMahpella",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningMahpella.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningMalok",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningMalok.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningSatellite",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningSatellite.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningShelter",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningShelter.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningSpeGun",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningSpeGun.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningSpeGun0",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningSpeGun0.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningStorage",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningStorage.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningStorageAtack",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningStorageAtack.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningTakasumi",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningTakasumi.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "BillionairesEveningTauhito",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\BillionairesEveningTauhito.png"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "FHDJohnDoe_01",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_01.jpg"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "FHDJohnDoe_02",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Quest\\Rus\\FHDJohnDoe_02.jpg"
+                  },
+                  {
+                    "kind": "parameter",
+                    "name": "Rab_01",
+                    "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\PQI\\Rab_01.jpg"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "kind": "block",
+        "name": "Script",
+        "value": {
+          "entries": [
+            {
+              "kind": "parameter",
+              "name": "billionairesEvening",
+              "value": "Mods\\FHD_MODS\\FHD_QuickQuest\\DATA\\Script\\billionairesEvening.scr"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
