@@ -1,0 +1,37 @@
+name: Assemble QuickQuest 1.2.5 fix24 archive and sources
+on:
+  push:
+    paths:
+      - '.github/workflows/assemble-quickquest-fix24.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Assemble byte-exact installation archive
+        run: |
+          mkdir -p '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/install'
+          cat '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub'/parts/part* > '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/install/FHD_QuickQuest_v1.2.5-fix24.rar'
+          echo '08efd2bc7c6ea92d3a3f99c8e44b7d47f478f1167370476491e1722b80f3b67b  1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/install/FHD_QuickQuest_v1.2.5-fix24.rar' | sha256sum -c -
+      - name: Install GI toolkit
+        run: git clone --depth=1 https://github.com/Xenomorphchyma/SRHD-XenoModKit.git /tmp/SRHD-XenoModKit
+      - name: Export original quests and sources without changing them
+        env:
+          PYTHONPATH: /tmp/SRHD-XenoModKit:1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/tools
+        run: |
+          python '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/tools/nexus_source_export.py' --archive '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/install/FHD_QuickQuest_v1.2.5-fix24.rar' --target '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub' --sha256 08efd2bc7c6ea92d3a3f99c8e44b7d47f478f1167370476491e1722b80f3b67b --mod FHD_QuickQuest
+      - name: Commit installer and original sources, remove temporary chunks
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/install' '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/SOURCE' '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/VALIDATION_REPORT.json'
+          git rm -rq -- '1FHD_QuickQuest_v1.2.5-fix24_DRIVE_Nexus-GitHub/parts'
+          git commit -m 'Publish byte-identical FHD_QuickQuest fix24 and all source resources'
+          git pull --rebase origin main
+          git push origin HEAD:main
